@@ -3,7 +3,7 @@ x = Msgbox("Nice files, just let me ...",48, "WARNING!!!")
 Y = Msgbox("Virus has infected the hard drive (C:).Deletion of the virus will require complete formatting of the hard drive (C:). Would you like to format hard drive ? (C:)",48, "WARNING")
 z = Msgbox("STUPID!!!")
 h = Msgbox("NEXT TIME",32, "USELESS")
-a = Msgbox("CHECK,32",32, "USELESS")
+a = Msgbox("CHECK",32, "USELESS")
 b = Msgbox("WHAT ARE YOU DOWNLOADING",4+16, "USELESS")
 b = Msgbox("STUPID!!!",32, "USELESS")
 
